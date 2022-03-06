@@ -6,4 +6,5 @@ def suma (**sumar):
 	
 
 suma(3+2)
+suma (5+2)
 print(sumar)
